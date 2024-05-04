@@ -1,2 +1,2 @@
-# Intelligent_BI
-智能BI系统实现
+# facial expression recognition system
+人脸表情识别系统
